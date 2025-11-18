@@ -1,10 +1,10 @@
-import React from "react";
-import ExpenseTracker from "./ExpenseTracker.JS"; // import component
-
+import React from 'react';
+ // import component
+import MovieFinder from "./MovieFinder.js"
 function App() {
   return (
     <div>
-      <ExpenseTracker />
+      <MovieFinder />
     </div>
   );
 }
